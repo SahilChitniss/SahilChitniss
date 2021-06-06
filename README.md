@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahil Chitnis
 - 👀 I’m interested in Embedded and kernel software development.
-- 🌱 I have 3+ years of experience writing production level code for safety critical systems (such as Self Driving Cars) and leading security features in this field while working for NVIDIA.
+- 🌱 I have 3.5+ years of experience writing production level code for safety critical systems (such as Self Driving Cars) and leading security features in this field while working for NVIDIA.
 - 💞️ I have currently taken a break from work to pursue my 2nd Master's degree from New York University where i plan to work on some interesting research work 
      in this field and maybe write and publish a paper or two.
 - 📫 I am open to collaborations / research work / internship / full time(after Dec 2021) opportunities and can be contacted / connected at ssc9983@nyu.edu or
