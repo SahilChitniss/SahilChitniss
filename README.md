@@ -10,6 +10,8 @@
      
 I would love to hear from you, so feel free to drop me a Hello !
 
+For any queries / feedback / constructive criticism / collaborations on this or any other of my projects you are most welcome to drop me an email : ssc9983@nyu.edu
+
 <!---
 SahilChitniss/SahilChitniss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
